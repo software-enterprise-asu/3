@@ -1,0 +1,2 @@
+Do you think EVA is a useful technique to do on real software projects?
+Do you think EVA will benefit your capstone project? How will it, how will it not?

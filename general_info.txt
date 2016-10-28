@@ -1,0 +1,9 @@
+| | |
+| --------- | ----------------------------------- |
+| __Title__ | Software Project Tracking |
+| __Version Info__ | Version 1.0, submitted by asingh64 on 09/30/2012 at 02:28 PM |
+| __Author__ | Kevin Gary |
+| __Mapping to Content Taxonomy__ | __SEEK:__ MGT.ctl <br> __CS2013:__ SE/Software Project Management/Project Management |
+| __Abstract__ | This module discusses project tracking, particularly through Earned-Value Analysis (EVA) and Agile burndown charts. We will also discuss why tracking progress on some software projects is so hard in the first place. |
+| __Size__ | __Preparation:__ 2 readings 1 hour each <br/> __Preparation Quiz:__ 30 minutes <br/> __Discussion:__ 50 minutes <br/> __Practice:__ 2 hours 30 minutes |
+| __Comments__ | |
